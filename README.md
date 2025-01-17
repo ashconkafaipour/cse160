@@ -1,5 +1,5 @@
 # cse160
-160 Assignments
+CSE160_ASG0
 
 Ashcon Kafaipour
 askafaip@ucsc.edu
